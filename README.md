@@ -1,7 +1,5 @@
-# Project_BinaryTrees
-
-
-
+# DATA Structure Project 4
+## Binary Tree - Read from the data set
 
 Write a program which will process several sets of numbers.
 
